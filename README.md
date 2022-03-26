@@ -47,14 +47,22 @@ To build a N-trays OpenRipStation, you need:
  - N external USB CD drives
  - 1 powered USB hub with N ports (USB 2.0 provides enough bandwidth for up to 64 48X drives)
  - Strong, double-sided tape
- 
+
+![Photo of required parts](/images/1.jpg?raw=true)
+
 Optionaly, you may want to have:
 
  - An USB extension cable to plug the OpenRipStation to a PC
  - Small USB cables if the ones that come with the CD drives are too long
  - A Raspberry Pi and a 16 GiB SD card for the standalone variant
 
+![Photo of optional parts](/images/3.jpg?raw=true)
+
 ### Hardware assembly
+
+![Photo of required parts, unboxed](/images/2.jpg?raw=true)
+
+![Photo of optional parts, unboxed](/images/4.jpg?raw=true)
 
 TODO
 
