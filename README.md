@@ -2,6 +2,8 @@
 
 **OpenRipStation** (ORS for short) is an open-design audio CD ripping station built with on-the-shelf components and free software.
 
+TODO: photo of the result
+
 ## Features
 
 ### Core features
@@ -50,6 +52,8 @@ To build a N-trays OpenRipStation, you need:
 
 ![Photo of required parts](/images/1.jpg?raw=true)
 
+TODO: table of parts price
+
 Optionaly, you may want to have:
 
  - 1 USB extension cable to plug the OpenRipStation to a PC
@@ -57,12 +61,16 @@ Optionaly, you may want to have:
 
 ![Photo of optional parts](/images/3.jpg?raw=true)
 
+TODO: table of parts price
+
 For the standalone variant, you also need:
 
  - 1 Raspberry Pi (TODO: benchmark models, recommend the cheapest which is fast enough)
  - 1 SD card (16 GiB is more than enough; TODO: document the absolute minimum needed)
 
 TODO: photo
+
+TODO: table of parts price
 
 ### Hardware assembly
 
