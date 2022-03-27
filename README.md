@@ -52,11 +52,17 @@ To build a N-trays OpenRipStation, you need:
 
 Optionaly, you may want to have:
 
- - An USB extension cable to plug the OpenRipStation to a PC
- - Small USB cables if the ones that come with the CD drives are too long
- - A Raspberry Pi and a 16 GiB SD card for the standalone variant
+ - 1 USB extension cable to plug the OpenRipStation to a PC
+ - N small USB cables if the ones that come with the CD drives are too long
 
 ![Photo of optional parts](/images/3.jpg?raw=true)
+
+For the standalone variant, you also need:
+
+ - 1 Raspberry Pi (TODO: benchmark models, recommend the cheapest which is fast enough)
+ - 1 SD card (16 GiB is more than enough; TODO: document the absolute minimum needed)
+
+TODO: photo
 
 ### Hardware assembly
 
