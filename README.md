@@ -52,7 +52,13 @@ To build a N-trays OpenRipStation, you need:
 
 ![Photo of required parts](/images/1.jpg?raw=true)
 
-TODO: table of parts price
+| Part      | Quantity | Unit price | Total price |
+| :-------- | -------: | ---------: | ----------: |
+| CD drives |        3 |       26 € |        78 € |
+| USB hub   |        1 |       28 € |        28 € |
+| Tape      |        1 |        9 € |         9 € |
+|           |          |            |             |
+| Total     |          |            |       115 € |
 
 Optionaly, you may want to have:
 
@@ -61,7 +67,12 @@ Optionaly, you may want to have:
 
 ![Photo of optional parts](/images/3.jpg?raw=true)
 
-TODO: table of parts price
+| Part       | Quantity | Unit price | Total price |
+| :--------- | -------: | ---------: | ----------: |
+| USB cable  |        1 |        8 € |         8 € |
+| USB cables |        3 |        5 € |        15 € |
+|            |          |            |             |
+| Total      |          |            |        23 € |
 
 For the standalone variant, you also need:
 
@@ -70,7 +81,12 @@ For the standalone variant, you also need:
 
 TODO: photo
 
-TODO: table of parts price
+| Part          | Quantity | Unit price | Total price |
+| :------------ | -------: | ---------: | ----------: |
+| Raspberry Pi  |        1 |       35 € |        35 € |
+| SD Card       |        1 |        7 € |         7 € |
+|               |          |            |             |
+| Total         |          |            |        42 € |
 
 ### Hardware assembly
 
