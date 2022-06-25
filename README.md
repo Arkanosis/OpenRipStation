@@ -50,7 +50,7 @@ To build a N-trays OpenRipStation, you need:
  - 1 powered USB hub with N ports (USB 2.0 provides enough bandwidth for up to 64 48X drives)
  - Strong, double-sided tape
 
-![Photo of required parts](/images/1.jpg?raw=true)
+![Photo of required parts](/images/01.jpg?raw=true)
 
 | Part      | Quantity | Unit price | Total price |
 | :-------- | -------: | ---------: | ----------: |
@@ -63,9 +63,9 @@ To build a N-trays OpenRipStation, you need:
 Optionaly, you may want to have:
 
  - 1 USB extension cable to plug the OpenRipStation to a PC
- - N small USB cables if the ones that come with the CD drives are too long
+ - N short USB cables if the ones that come with the CD drives are too long
 
-![Photo of optional parts](/images/3.jpg?raw=true)
+![Photo of optional parts](/images/02.jpg?raw=true)
 
 | Part       | Quantity | Unit price | Total price |
 | :--------- | -------: | ---------: | ----------: |
@@ -90,11 +90,25 @@ TODO: photo
 
 ### Hardware assembly
 
-![Photo of required parts, unboxed](/images/2.jpg?raw=true)
+![Photo of required parts, unboxed](/images/03.jpg?raw=true)
 
-![Photo of optional parts, unboxed](/images/4.jpg?raw=true)
+![Photo of optional parts, unboxed](/images/04.jpg?raw=true)
 
 TODO
+
+![Photo of double-sided tape on a drive](/images/05.jpg?raw=true)
+
+![Photo of double-sided tape on the first drive](/images/06.jpg?raw=true)
+
+![Photo of double-sided tape on the second drive](/images/07.jpg?raw=true)
+
+![Photo of the USB hub plugged into all three drives using short USB cables](/images/08.jpg?raw=true)
+
+![Photo of double-sided tape under the USB hub](/images/09.jpg?raw=true)
+
+![Photo of the USB taped onto the top drive](/images/10.jpg?raw=true)
+
+![Photo of the USB taped onto the top drive with the free USB port visible](/images/11.jpg?raw=true)
 
 ### Software setup
 
